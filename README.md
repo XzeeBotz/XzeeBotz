@@ -5,13 +5,13 @@
 
 
 
-[ [WhatsApp No] ](https://wa.me/+6282232806698)
+[ Owner Xzee ](https://wa.me/+6282232806698)
 
 ## `SocMed`
 
-[ [Instagram] ](https://instagram.com/@achel.haid_)
+[ Instagram ](https://instagram.com/@achel.haid_)
 
-[ [Tiktok] ](https://tiktok.com/@achel.haid)
+[ Tiktok ](https://tiktok.com/@achel.haid)
 
 ## `Cara Run Di Termux`
 
