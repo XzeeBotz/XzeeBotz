@@ -17,8 +17,4 @@ You can click the Preview link to take a look at your changes.
 [ [Tiktok] ](https://tiktok.com/@achel.haid)
 
 
-Big Thanks To
-• Allah SWT
-• My Ortu
-• XzeeBotz ( Saya Sndiri:v )
-• OchoBotz
+
