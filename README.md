@@ -47,6 +47,7 @@
 
 - https://github.com/clhuang/heroku-buildpack-webp-binaries
 - https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest
+- Salin Bang:v
 
 ## `Start All Package`
 
