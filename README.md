@@ -9,4 +9,16 @@ XzeeBotz/XzeeBotz is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 
-[ WhatsApp No ](wa.me/+6282232806698)
+[ [WhatsApp No] ](wa.me/+6282232806698)
+
+```My Socmed```
+
+[ [Instagram] ](https://instagram.com/@achel.haid_)
+[ [Tiktok] ](https://tiktok.com/@achel.haid)
+
+
+Big Thanks To
+• Allah SWT
+• My Ortu
+• XzeeBotz ( Saya Sndiri:v )
+• OchoBotz
