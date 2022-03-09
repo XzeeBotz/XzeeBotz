@@ -1,3 +1,6 @@
+<p align="center">
+<img src="https://telegra.ph/file/0c948e309cc07fb7f3cfa.jpg" alt="XzeeBotz" width="500"/>
+
 - 👋 Hi, I’m @XzeeBotz
 - 👀 I’m 14 Years Old
 - 🌱 I’m From Surabaya
