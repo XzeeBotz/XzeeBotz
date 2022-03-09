@@ -6,6 +6,9 @@
 - 🌱 I’m From Surabaya
 - 💞️ Mine Not Found.
 
+<p align="center">
+<a href="https://github.com/XzeeBotz"><img title="Author" src="https://img.shields.io/badge/Author-Dika-red.svg?style=for-the-badge&logo=github"></a>
+
 ## `Nomor Admin`
 
 [ `Owner OchoBotz` ](https://wa.me/+6282232806698)
