@@ -7,7 +7,7 @@
 - 💞️ Mine Not Found.
 
 <p align="center">
-<a href="https://wa.me/+6282232806698"><img title="Admin" src="https://img.shields.io/badge/Admin-XzeeBotz-red.svg?style=for-the-badge&logo=whatsapp"></a>
+<a href="https://wa.me/+6282232806698"><img title="Admin" src="https://img.shields.io/badge/Admin-XzeeBotz-green.svg?style=for-the-badge&logo=whatsapp"></a>
 
 ## `Nomor Admin`
 
