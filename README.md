@@ -5,7 +5,7 @@
 
 ## `Nomor Admin`
 
-[ Owner OchoBotz ](https://wa.me/+6282232806698)
+[ `Owner OchoBotz` ](https://wa.me/+6282232806698)
 
 [ Owner XzeeBotz ](https://wa.me/+6281381685954)
 
